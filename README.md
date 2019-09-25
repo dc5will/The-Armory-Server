@@ -2,7 +2,9 @@
 An app for gamers to find friends to play with in their favorite online multiplayer game.
 
 [Live Version](https://squad-armory.now.sh/)
+
 [API](https://limitless-brushlands-45977.herokuapp.com/api)
+
 [Client Repo](https://github.com/dc5will/The-Armory-Client)
 
 ## Why
@@ -29,6 +31,7 @@ Finding friends to play online video games with is hard. Sometimes life gets in 
 - [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 - [Socket.io-client](https://socket.io/docs/client-api/)
 - [Enzyme](https://airbnb.io/enzyme/)
+- [ZEIT Now](https://zeit.co/docs)
 
 ### Server
 - [Node](https://github.com/nodejs/node)
@@ -41,6 +44,9 @@ Finding friends to play online video games with is hard. Sometimes life gets in 
 - [Mocha](https://mochajs.org/)
 - [Chai](https://www.chaijs.com/)
 - [Supertest](https://www.npmjs.com/package/supertest)
+- [Heroku](https://devcenter.heroku.com/categories/reference#data-management)
+- [Heroku Postgres](https://devcenter.heroku.com/categories/heroku-postgres)
+
 
 ## API
 ```
